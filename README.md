@@ -55,7 +55,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-Special thanks to [piyushdevan](https://github.com/piyushdevan) [Rajiv Kumar Sah](https://github.com/Rajivsah240) [Aryan Kumar Singh](https://github.com/) for developing this utility.
+Special thanks to [piyushdevan](https://github.com/piyushdevan) [Rajiv Kumar Sah](https://github.com/Rajivsah240) [Aryan Kumar Singh](https://github.com/Aryansingh27022003) for developing this utility.
 
 For any questions or issues, please contact the project owner or create an issue on GitHub.
 
